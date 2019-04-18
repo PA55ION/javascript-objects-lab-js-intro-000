@@ -16,7 +16,7 @@ function deleteFromObjectByKey(object, key) {
     delete newObj[key]
 
     reutnr newObj;
-    
+
 }
 
 
